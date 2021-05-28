@@ -1,0 +1,9 @@
+.content {
+  width: 400px;
+  height: 300px;
+  border: 1px solid green;
+}
+.footer {
+  height: 100px;
+  background-color: lightblue;
+}
